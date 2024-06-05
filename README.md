@@ -1,16 +1,31 @@
-## Hi there 👋
 
-<!--
-**cresiiiiiis/cresiiiiiis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Logo](https://i.ibb.co/kBZBj4n/Add-a-heading.png)
+# 
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Hello World
+
+Hi, Welcome to my GitHub Profile! I'm a programmer and a Java Enthusiast.
+
+
+
+
+## My workspace
+👩‍💻 I'm currently working for Krying Network
+
+🧠 I'm currently learning __**Kali Linux**__
+
+
+💬 Ask me about Remco, Trojan protection, SQL Injection, Plugin Development, Bukkit API, Discord.py
+
+📫 Reach me on discord my **leonardious.**
+
+😄 I'm a He/Him
+
+⚡️ Fun fact, I love watching Anime
+
+
+## <3
+
+![App Screenshot](https://gifdb.com/images/high/cute-anime-whisker-s-away-cat-taro-hxx68fsrw5fnkiao.gif)
+
